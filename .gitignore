@@ -1,0 +1,21 @@
+# Ignore working folder
+Working/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+env/
+venv/
+Data_Mining_Project/
+
+# Optional: ignore large model files (comment if you WANT them)
+# *.pkl
